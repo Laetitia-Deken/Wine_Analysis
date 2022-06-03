@@ -1,6 +1,6 @@
 # Wine_Analysis
 
-*(Business Case : Training Quest - Wild Code School (in French))*
+*(Final Data Checkpoint - Wild Code School (in French))*
 
 # Etude de marché sur le vin
 
