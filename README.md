@@ -26,3 +26,15 @@ La présentation contiendra a minima ces éléments :
 - Présentation de la partie technique et du code créé pour cette analyse
 - Réponse à la question métier : proposition de prix ou de fourchette de prix au client pour être correctement positionné face à la concurrence sur le marché américain.
 
+# Tableaux de bord
+
+![Analyse internationale du marché des vins](https://github.com/Laetitia-Deken/Wine_Analysis/blob/cc24750ad982bafa880e2924747dcbd1d0c6d856/Wine%20Analysis_Page_1.png "Analyse internationale du marché des vins")
+
+![Analyse par cépage](https://github.com/Laetitia-Deken/Wine_Analysis/blob/cc24750ad982bafa880e2924747dcbd1d0c6d856/Wine%20Analysis_Page_2.png "Analyse par cépage")
+
+![Analyse des prix des Pinot Noir](https://github.com/Laetitia-Deken/Wine_Analysis/blob/cc24750ad982bafa880e2924747dcbd1d0c6d856/Wine%20Analysis_Page_3.png "Analyse des prix des Pinot Noir")
+
+![Analyse des Pinot Noir](https://github.com/Laetitia-Deken/Wine_Analysis/blob/cc24750ad982bafa880e2924747dcbd1d0c6d856/Wine%20Analysis_Page_4.png "Analyse des Pinot Noir")
+
+![Analyse des Pinot Noir](https://github.com/Laetitia-Deken/Wine_Analysis/blob/cc24750ad982bafa880e2924747dcbd1d0c6d856/Wine%20Analysis_Page_5.png "Analyse des Pinot Noir")
+
